@@ -17,3 +17,4 @@ public function articles($id){
 }
 
 }
+    
